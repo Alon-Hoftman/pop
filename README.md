@@ -1,7 +1,6 @@
 # pop
 pop goes the world
-I am using vim
-and again and again
+This is a vim test file
 
 True Merger
-and another one
+
